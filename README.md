@@ -1,5 +1,4 @@
 # BMI-calculator
-Overview
 This is a simple C program to calculate the Body Mass Index (BMI) of a person based on their weight and height. BMI is a numerical value that provides an indication of whether a person's weight is appropriate for their height. It is commonly used as a screening tool to assess whether an individual is underweight, normal weight, overweight, or obese.
 
 Prerequisites
